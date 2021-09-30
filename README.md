@@ -1,0 +1,1 @@
+This project focuses on building a webpage only relying on HTML. 
